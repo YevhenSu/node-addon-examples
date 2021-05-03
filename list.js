@@ -1,1 +1,1 @@
-module.exports = [ "movie", "theatre", "stadium", ];
+module.exports = [ "movie", "theatre", "stadium", "airport", ];
